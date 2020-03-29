@@ -21,5 +21,7 @@ Som man ser i resultatet så skulle jag inte kalla projektet lyckat. Jag lyckade
 * Jag har lärt mig läsa noter till viss mån på grund av alla midi-filer jag har redigerat. Kanske inte så användbart i programmeringsyfte, men kul ändå. 
 
 ## Som alltid så avlsutar jag min Readme med en bil
-Den här gången blev det en Supra
+Den här gången blev det en Subaru
+
+![](Subaru_WRX.jpg)
 
