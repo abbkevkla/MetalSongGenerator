@@ -20,7 +20,7 @@ Som man ser i resultatet så skulle jag inte kalla projektet lyckat. Jag lyckade
 * Har lärt mig lite om filhantering, dels hur man gör om och redigerar midi-filer, men även hur man refererar till olika filer på olika vis och även hur man ställer om en environment path.
 * Jag har lärt mig läsa noter till viss mån på grund av alla midi-filer jag har redigerat. Kanske inte så användbart i programmeringsyfte, men kul ändå. 
 
-## Som alltid så avlsutar jag min Readme med en bil
+## Som alltid avslutas min Readme med en bil
 Den här gången blev det en Subaru
 
 ![](Subaru_WRX.jpg)
