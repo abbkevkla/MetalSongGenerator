@@ -4,8 +4,8 @@ from comtypes.gen import SpeechLib
 
 engine = CreateObject("SAPI.SpVoice")
 stream = CreateObject("SAPI.SpFileStream")
-infile = "SLAYER AI small.txt"
-outfile = "SLAYER AI small.wav" 
+infile = "SLAYER AI small 1.txt"
+outfile = "SLAYER AI small 1.wav" 
 # Jag testade att göra .mp3 filer på direkten, men filerna som skapades då fungerade inte qlls
 stream.Open(outfile, SpeechLib.SSFMCreateForWrite)
 engine.AudioOutputStream = stream
