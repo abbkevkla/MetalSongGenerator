@@ -11,7 +11,7 @@ För att skriva texter till musiken har jag använt NLP (Natural Language Proces
 Projektet består av 5 delar. Träna en modell, generera musik med modellen, generera en text, läsa upp texten och slutligen sätta ihop text och musik. Alla notebooks ska bara vara att köra utan några större ändringar. Det som behöver ändras är alla paths, men utöver det ska det inte vara några större problem.
 
 För att träna en modell använder man [Train_music](Notebooks/Train_music.ipynb). Denna rekommenderar jag att använda i Google Colab så att det går fortfare.
-Om du inte vill träna en egen modell finns det massvis med modeller som jag redan tränat i mappen [data](musicautobot-master/data/numpy).
+Om du inte vill träna en egen modell finns det massvis med modeller som jag redan tränat i mappen [models](musicautobot-master/data/numpy/models). Tydligen är modellerna för stora för github, så om du verkligen behöver någon modell kan du antingen kolla på Andrew Shaw's version, där det finns modeller, eller fråga mig om det.
 
 Generering av musik görs med [Generate_Music](Notebooks/Generate_music.ipynb). Denna är gjord för att köras lokalt på din dator, med exempelvis Jupyter, men den går säkert att skriva om ifall man föredrar att köra Google Colab. 
 
